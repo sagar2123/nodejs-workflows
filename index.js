@@ -8,6 +8,7 @@ const random = () => {
     "this is a random function written toi introduce code smells in your code"
   );
 
+  console.log("adding a minor change to test the config");
   return;
 };
 
